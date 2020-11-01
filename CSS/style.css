@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/midllepage.css");
+
+}
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 12px;
+}
+
+h1 {
+	font-family: 'Lora', serif;
+	font-size: 35px;
+	color: white;
+} 
+
+
+h2 {
+  font-family: 'Lora', serif;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+
+} 
+
+h3 {
+	font-family: Lora, serif;
+	font-size: 18px;
+	color: black;
+}
+
+p {
+	font-family: Lora;
+    font-style: italic;
+    font-size: 18px;
+    color: white;
+}
+
+#textarnaud {
+	font-family: 'Lora';
+	font-size: 13px;
+	font-style: italic;
+	color: black;
+	text-align: center;
+}
+
+#textcharles {
+	margin-top: 25px;
+}
+.thirdpage {
+    
+    padding-bottom: 0px;
+    padding-top: 26px;
+
+}
+#introduction {
+	    padding-top: 82px;
+
+}
+
+#vignette {
+	text-align: center;
+}
+
+#bouton {
+	text-align: center;
+    padding-top: 125px;
+    padding-bottom: 105px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora';
+	font-size: 30px;
+	text-decoration: none;
+}
+}
+	
+}
+
+a {
+	text-decoration: none;
+}

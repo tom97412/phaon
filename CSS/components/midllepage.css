@@ -1,0 +1,21 @@
+.midllepage {
+	background-image: url(../../images/midllepage.jpeg);
+	padding: 150px 150px;
+	background-size: cover;
+	font-family: roboto;
+	height: 423px;
+	opacity: 0.9;
+	padding-top: 10px;
+	padding-bottom: 150px;
+
+}
+.middlepage p {
+    
+    padding-top: 50px;
+
+
+}
+.middlepage h2 {
+	padding-bottom: 300px;
+}
+}
